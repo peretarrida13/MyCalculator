@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "calculator",
+    "slug": "calculator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "android": {
+      "package": "mycalculator.io"
+    }
+  },
+  "name": "calculator"
+}
